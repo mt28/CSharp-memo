@@ -1,0 +1,10 @@
+C:\Users\Majli\source\repos\IntoToProgramming\memo\memo\obj\Debug\memo.csprojAssemblyReference.cache
+C:\Users\Majli\source\repos\IntoToProgramming\memo\memo\obj\Debug\memo.Form1.resources
+C:\Users\Majli\source\repos\IntoToProgramming\memo\memo\obj\Debug\memo.Properties.Resources.resources
+C:\Users\Majli\source\repos\IntoToProgramming\memo\memo\obj\Debug\memo.csproj.GenerateResource.cache
+C:\Users\Majli\source\repos\IntoToProgramming\memo\memo\obj\Debug\memo.csproj.CoreCompileInputs.cache
+C:\Users\Majli\source\repos\IntoToProgramming\memo\memo\bin\Debug\memo.exe.config
+C:\Users\Majli\source\repos\IntoToProgramming\memo\memo\bin\Debug\memo.exe
+C:\Users\Majli\source\repos\IntoToProgramming\memo\memo\bin\Debug\memo.pdb
+C:\Users\Majli\source\repos\IntoToProgramming\memo\memo\obj\Debug\memo.exe
+C:\Users\Majli\source\repos\IntoToProgramming\memo\memo\obj\Debug\memo.pdb
